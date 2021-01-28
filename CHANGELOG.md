@@ -6,6 +6,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [v2.0.0]
+### Added
+Student, course, and IOManagement files
+### Changed
+updated CHANGELOG
+changed build file
+changed test file
+updated App file to include javafx (does not work)
+reorganized files
+
 ## [v1.0.0] - 2021-01-27
 ### Added
 Set up gradle files
